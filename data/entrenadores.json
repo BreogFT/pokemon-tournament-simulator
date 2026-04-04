@@ -1,1 +1,804 @@
-[]
+{
+    "entrenadores": [
+        {
+            "id": "ent-001",
+            "nombre": "Adaman",
+            "pokemon_fijos": [
+                "54-00",
+                "447-00"
+            ],
+            "inicial": "54-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-002",
+            "nombre": "Akari",
+            "pokemon_fijos": [
+                "722-00",
+                "172-00"
+            ],
+            "inicial": "722-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-003",
+            "nombre": "Bianca",
+            "pokemon_fijos": [
+                "498-00",
+                "572-00"
+            ],
+            "inicial": "498-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-004",
+            "nombre": "Brawly",
+            "pokemon_fijos": [
+                "296-00",
+                "285-00"
+            ],
+            "inicial": "296-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-005",
+            "nombre": "Brendan",
+            "pokemon_fijos": [
+                "252-00",
+                "278-00"
+            ],
+            "inicial": "252-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-006",
+            "nombre": "Cheren",
+            "pokemon_fijos": [
+                "501-00",
+                "506-00"
+            ],
+            "inicial": "501-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-007",
+            "nombre": "Corelia",
+            "pokemon_fijos": [
+                "447-00",
+                "701-00"
+            ],
+            "inicial": "447-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-008",
+            "nombre": "Cynthia",
+            "pokemon_fijos": [
+                "443-00",
+                "406-00"
+            ],
+            "inicial": "443-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-009",
+            "nombre": "Hilda",
+            "pokemon_fijos": [
+                "498-00",
+                "529-00"
+            ],
+            "inicial": "498-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-010",
+            "nombre": "Lana",
+            "pokemon_fijos": [
+                "746-00",
+                "751-00"
+            ],
+            "inicial": "746-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-011",
+            "nombre": "Liz",
+            "pokemon_fijos": [
+                "677-00",
+                "338-00"
+            ],
+            "inicial": "677-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-012",
+            "nombre": "Mananti",
+            "pokemon_fijos": [
+                "418-00",
+                "129-00"
+            ],
+            "inicial": "418-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-013",
+            "nombre": "Marlon",
+            "pokemon_fijos": [
+                "458-00",
+                "320-00"
+            ],
+            "inicial": "458-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-014",
+            "nombre": "Marshall",
+            "pokemon_fijos": [
+                "538-00",
+                "532-00"
+            ],
+            "inicial": "538-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-015",
+            "nombre": "Máximo",
+            "pokemon_fijos": [
+                "374-00",
+                "345-00"
+            ],
+            "inicial": "374-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-016",
+            "nombre": "Pegaso",
+            "pokemon_fijos": [
+                "16-00",
+                "163-00"
+            ],
+            "inicial": "16-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-017",
+            "nombre": "Phoebe",
+            "pokemon_fijos": [
+                "353-00",
+                "741-00"
+            ],
+            "inicial": "353-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-018",
+            "nombre": "Protón",
+            "pokemon_fijos": [
+                "215-01",
+                "104-00"
+            ],
+            "inicial": "215-01",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-019",
+            "nombre": "Red",
+            "pokemon_fijos": [
+                "4-00",
+                "131-00"
+            ],
+            "inicial": "4-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-020",
+            "nombre": "Sabi",
+            "pokemon_fijos": [
+                "240-00",
+                "239-00"
+            ],
+            "inicial": "240-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-021",
+            "nombre": "Berto",
+            "pokemon_fijos": [
+                "859-00",
+                "303-00"
+            ],
+            "inicial": "859-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-022",
+            "nombre": "Brock",
+            "pokemon_fijos": [
+                "95-00",
+                "408-00"
+            ],
+            "inicial": "95-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-023",
+            "nombre": "Candela",
+            "pokemon_fijos": [
+                "324-00",
+                "653-00"
+            ],
+            "inicial": "324-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-024",
+            "nombre": "Cogita",
+            "pokemon_fijos": [
+                "592-00",
+                "222-01"
+            ],
+            "inicial": "592-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-025",
+            "nombre": "Débora",
+            "pokemon_fijos": [
+                "116-00",
+                "129-00"
+            ],
+            "inicial": "116-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-026",
+            "nombre": "Eco",
+            "pokemon_fijos": [
+                "158-00",
+                "152-00"
+            ],
+            "inicial": "158-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-027",
+            "nombre": "Elio",
+            "pokemon_fijos": [
+                "728-00",
+                "731-00"
+            ],
+            "inicial": "728-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-028",
+            "nombre": "Hugh",
+            "pokemon_fijos": [
+                "498-00",
+                "495-00"
+            ],
+            "inicial": "498-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-029",
+            "nombre": "Ingo",
+            "pokemon_fijos": [
+                "808-00",
+                "607-00"
+            ],
+            "inicial": "808-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-030",
+            "nombre": "Koga",
+            "pokemon_fijos": [
+                "434-00",
+                "41-00"
+            ],
+            "inicial": "434-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-031",
+            "nombre": "Lectro",
+            "pokemon_fijos": [
+                "309-00",
+                "479-00"
+            ],
+            "inicial": "309-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-032",
+            "nombre": "Lionel",
+            "pokemon_fijos": [
+                "4-00",
+                "885-00"
+            ],
+            "inicial": "4-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-033",
+            "nombre": "Mela",
+            "pokemon_fijos": [
+                "935-00",
+                "935-00"
+            ],
+            "inicial": "935-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-034",
+            "nombre": "Misty",
+            "pokemon_fijos": [
+                "120-00",
+                "54-00"
+            ],
+            "inicial": "120-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-035",
+            "nombre": "Nemona",
+            "pokemon_fijos": [
+                "906-00",
+                "909-00"
+            ],
+            "inicial": "906-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-036",
+            "nombre": "Nessa",
+            "pokemon_fijos": [
+                "349-00",
+                "688-00"
+            ],
+            "inicial": "349-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-037",
+            "nombre": "Orion",
+            "pokemon_fijos": [
+                "25-00",
+                "83-01"
+            ],
+            "inicial": "25-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-038",
+            "nombre": "Petrel",
+            "pokemon_fijos": [
+                "19-00",
+                "88-00"
+            ],
+            "inicial": "19-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-039",
+            "nombre": "Tate",
+            "pokemon_fijos": [
+                "677-00",
+                "337-00"
+            ],
+            "inicial": "677-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-040",
+            "nombre": "Violeta",
+            "pokemon_fijos": [
+                "46-00",
+                "127-00"
+            ],
+            "inicial": "46-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-041",
+            "nombre": "Archer",
+            "pokemon_fijos": [
+                "228-00",
+                "109-00"
+            ],
+            "inicial": "228-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-042",
+            "nombre": "Ash",
+            "pokemon_fijos": [
+                "25-00",
+                "396-00"
+            ],
+            "inicial": "25-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-043",
+            "nombre": "Azul",
+            "pokemon_fijos": [
+                "7-00",
+                "58-00"
+            ],
+            "inicial": "7-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-044",
+            "nombre": "Judith",
+            "pokemon_fijos": [
+                "236-00",
+                "650-00"
+            ],
+            "inicial": "236-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-045",
+            "nombre": "Elesa",
+            "pokemon_fijos": [
+                "587-00",
+                "179-00"
+            ],
+            "inicial": "587-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-046",
+            "nombre": "Gaeric",
+            "pokemon_fijos": [
+                "539-00",
+                "712-00"
+            ],
+            "inicial": "539-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-047",
+            "nombre": "Gardenia",
+            "pokemon_fijos": [
+                "406-00",
+                "387-00"
+            ],
+            "inicial": "406-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-048",
+            "nombre": "Giovanni",
+            "pokemon_fijos": [
+                "52-00",
+                "111-00"
+            ],
+            "inicial": "52-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-049",
+            "nombre": "Gloria",
+            "pokemon_fijos": [
+                "816-00",
+                "813-00"
+            ],
+            "inicial": "816-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-050",
+            "nombre": "Grusha",
+            "pokemon_fijos": [
+                "361-00",
+                "615-00"
+            ],
+            "inicial": "361-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-051",
+            "nombre": "Kieran",
+            "pokemon_fijos": [
+                "840-00",
+                "725-00"
+            ],
+            "inicial": "840-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-052",
+            "nombre": "Lance",
+            "pokemon_fijos": [
+                "147-00",
+                "142-00"
+            ],
+            "inicial": "147-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-053",
+            "nombre": "Leaf",
+            "pokemon_fijos": [
+                "1-00",
+                "446-00"
+            ],
+            "inicial": "1-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-054",
+            "nombre": "Mallow",
+            "pokemon_fijos": [
+                "761-00",
+                "780-00"
+            ],
+            "inicial": "761-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-055",
+            "nombre": "Maya",
+            "pokemon_fijos": [
+                "255-00",
+                "258-00"
+            ],
+            "inicial": "255-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-056",
+            "nombre": "Morty",
+            "pokemon_fijos": [
+                "92-00",
+                "827-00"
+            ],
+            "inicial": "92-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-057",
+            "nombre": "N",
+            "pokemon_fijos": [
+                "570-00",
+                "561-00"
+            ],
+            "inicial": "570-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-058",
+            "nombre": "Rei",
+            "pokemon_fijos": [
+                "155-00",
+                "501-00"
+            ],
+            "inicial": "155-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-059",
+            "nombre": "Rojo",
+            "pokemon_fijos": [
+                "4-00",
+                "446-00"
+            ],
+            "inicial": "4-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-060",
+            "nombre": "Valerie",
+            "pokemon_fijos": [
+                "303-00",
+                "133-00"
+            ],
+            "inicial": "303-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-061",
+            "nombre": "Arezu",
+            "pokemon_fijos": [
+                "548-00",
+                "436-00"
+            ],
+            "inicial": "548-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-062",
+            "nombre": "Barry",
+            "pokemon_fijos": [
+                "393-00",
+                "396-00"
+            ],
+            "inicial": "393-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-063",
+            "nombre": "Blasco",
+            "pokemon_fijos": [
+                "280-00",
+                "333-00"
+            ],
+            "inicial": "280-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-064",
+            "nombre": "Bruno",
+            "pokemon_fijos": [
+                "66-00",
+                "95-00"
+            ],
+            "inicial": "66-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-065",
+            "nombre": "Camila",
+            "pokemon_fijos": [
+                "522-00",
+                "595-00"
+            ],
+            "inicial": "522-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-066",
+            "nombre": "Chuck",
+            "pokemon_fijos": [
+                "56-00",
+                "60-00"
+            ],
+            "inicial": "56-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-067",
+            "nombre": "Cyrus",
+            "pokemon_fijos": [
+                "336-00",
+                "228-00"
+            ],
+            "inicial": "336-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-068",
+            "nombre": "Dawn",
+            "pokemon_fijos": [
+                "393-00",
+                "427-00"
+            ],
+            "inicial": "393-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-069",
+            "nombre": "Drake",
+            "pokemon_fijos": [
+                "371-00",
+                "621-00"
+            ],
+            "inicial": "371-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-070",
+            "nombre": "Gary Oak",
+            "pokemon_fijos": [
+                "7-00",
+                "133-00"
+            ],
+            "inicial": "7-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-071",
+            "nombre": "Ghetsis",
+            "pokemon_fijos": [
+                "562-00",
+                "633-00"
+            ],
+            "inicial": "562-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-072",
+            "nombre": "Grant",
+            "pokemon_fijos": [
+                "696-00",
+                "698-00"
+            ],
+            "inicial": "696-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-073",
+            "nombre": "Guzma",
+            "pokemon_fijos": [
+                "767-00",
+                "736-00"
+            ],
+            "inicial": "767-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-074",
+            "nombre": "Hiedra",
+            "pokemon_fijos": [
+                "848-00",
+                "568-00"
+            ],
+            "inicial": "848-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-075",
+            "nombre": "Irida",
+            "pokemon_fijos": [
+                "173-00",
+                "580-00"
+            ],
+            "inicial": "173-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-076",
+            "nombre": "Nanu",
+            "pokemon_fijos": [
+                "52-01",
+                "559-00"
+            ],
+            "inicial": "52-01",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-077",
+            "nombre": "Nate",
+            "pokemon_fijos": [
+                "501-00",
+                "513-00"
+            ],
+            "inicial": "501-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-078",
+            "nombre": "Raihan",
+            "pokemon_fijos": [
+                "885-00",
+                "843-00"
+            ],
+            "inicial": "885-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-079",
+            "nombre": "Silver",
+            "pokemon_fijos": [
+                "158-00",
+                "155-00"
+            ],
+            "inicial": "158-00",
+            "equipo_completo": []
+        },
+        {
+            "id": "ent-080",
+            "nombre": "Zinnia",
+            "pokemon_fijos": [
+                "714-00",
+                "283-00"
+            ],
+            "inicial": "714-00",
+            "equipo_completo": []
+        }
+    ]
+}
