@@ -1,1 +1,26 @@
+# Carpetas de editor
 .vscode/
+.idea/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+venv/
+.env/
+.venv/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de pruebas
+.coverage
+pytest_cache/
